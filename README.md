@@ -33,4 +33,4 @@ The program follows a structured execution flow to ensure hardware stability:
 ---
 **Developer**: Abhiram Reddy Kandadi
 **Major**: Computer Engineering, Stevens Institute of Technology
-**GitHub**: [bobbyshark-exe](https://github.com/bobbyshark-exe)
+**GitHub**: [bobbyshark-exe](https://github.com/abhiramkandadi)
